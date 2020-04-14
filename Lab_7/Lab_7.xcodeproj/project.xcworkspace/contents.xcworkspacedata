@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../12/12/_2.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../12/12/_2.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:../12/12/_2Priv.hpp">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
